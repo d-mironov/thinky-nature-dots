@@ -189,7 +189,7 @@ inputbar {
     expand:                         false;
 	border:							0% 0% 0% 0%;
     border-radius:                  10px;
-	border-color:					@ac;
+	border-color:					@bg;
 }
 
 listview {
@@ -197,7 +197,9 @@ listview {
     padding:                        0px;
     columns:                        1;
     lines:                          4;
-    spacing:                       	1%; cycle:                          false; dynamic:                        true;
+    spacing:                       	1%; 
+    cycle:                          false; 
+    dynamic:                        true;
     layout:                         vertical;
 }
 
@@ -205,7 +207,7 @@ mainbox {
     background-color:               @bg;
 	border:							0% 0% 0% 0%;
     border-radius:                  20px;
-	border-color:					@ac;
+	border-color:					@bg;
     children:                       [ inputbar, listview ];
     spacing:                       	2%;
     padding:                        20px;
@@ -221,10 +223,10 @@ element {
 
 element-icon {
     size:                           24px;
-    border:                         1%;
-    border-color:                  	@ac;
+    border:                         0%;
+    border-color:                  	@bg;
     border-radius:                  5px;
-    background-color:               @ac;
+    background-color:               @bg;
 }
 
 element-text {
@@ -239,5 +241,5 @@ element selected {
     text-color:                     @fg;
 	border:							0% 0% 0% 0%;
     border-radius:                  5px;
-    border-color:                  	@ac;
+    border-color:                  	@bg;
 }
