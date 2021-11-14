@@ -17,16 +17,16 @@ Most of the other things should be self explanatory. Screenshot may have slightl
 - FontAwesome
 
 ### Software
-- [neovim](https://github.com/neovim/neovim)
-- [fet.sh](https://github.com/6gk/fet.sh)
-- rofi -> Application/power menu
-- [cbonsai](https://gitlab.com/jallbrit/cbonsai)
-- polybar
-- i3-radius/gaps
-- ibhagwan's fork of [picom](https://github.com/ibhagwan/picom)
-- [fet.sh](https://github.com/6gk/fet.sh) for fetching ^^
-- ranger -> TUI file manager
-- [wallpaper](https://www.artstation.com/artwork/eaW1yZ)
+- **Window Manager:** i3-radius/gaps
+- **Editor:** [neovim](https://github.com/neovim/neovim)
+- **Fetch:** [fet.sh](https://github.com/6gk/fet.sh)
+- **Application Menu:** rofi 
+- **Notifications:** [dunst](https://github.com/dunst-project/dunst)
+- **Top Bar:** polybar
+- **Compositor:** ibhagwan's fork of [picom](https://github.com/ibhagwan/picom)
+- **TUI file manager:** ranger 
+- **Bonsai Tree:** [cbonsai](https://gitlab.com/jallbrit/cbonsai)
+- **Wallpaper:** [wallpaper](https://www.artstation.com/artwork/eaW1yZ)
 
 ## Misc
 
